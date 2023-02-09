@@ -3,7 +3,6 @@
 #### About me
 
 * I am 33 year old programmer from Penza 💻
-* I learn Java at [Job4j](https://job4j.ru/) ☕
 
 -----------
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BazarnovSergey&hide=stars,prs,issues,contribs)
