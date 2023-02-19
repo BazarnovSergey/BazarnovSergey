@@ -5,7 +5,7 @@
 * I am 33 year old programmer from Penza 💻
 
 ### 📫 Contacts:  
- * Telegram: https://t.me/bazarnov_sergey
+ * Telegram: [@bazarnov_sergey](https://t.me/bazarnov_sergey)
  * Email: 101sergey101@gmail.com
 
 ### 🔭 Technologies:
