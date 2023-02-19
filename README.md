@@ -1,21 +1,29 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
-
 
 ### Hi! 👋 My name is Sergey. Welcome! ✌️
 
-#### About me
+### :man_technologist: About Me :
 
-* I am 33 year old programmer from Penza 💻
+* I am 34 year old programmer from Rissia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* I’m working as a Software Engineer and contributing to backend for building web applications.
 
 ### 📫 Contacts:  
  * Telegram: [@bazarnov_sergey](https://t.me/bazarnov_sergey)
  * Email: [101sergey101@gmail.com](mailto:101sergey101@gmail.com)
+ 
+ 
 
 ### 🔭 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,idea,maven,spring,hibernate,postgres,bootstrap,html,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,github,maven,spring,hibernate,postgres,linux,bootstrap,postman,html,)](https://skillicons.dev)
 
+### :hammer_and_wrench: Projects:
+
+- [Food delivery service (Microservice architecture)](https://github.com/BazarnovSergey/job4j_fast_food);
+- [Enterprise Car Sales (Web service)](https://github.com/BazarnovSergey/job4j_cars);
+- [Cinema Platform (Web service)](https://github.com/BazarnovSergey/job4j_cinema);
+- [To Do List (Web service)](https://github.com/BazarnovSergey/job4j_todo);
 -----------
 ### :bar_chart: My GitHub Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BazarnovSergey&hide=stars,prs,issues,contribs)
