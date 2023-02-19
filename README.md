@@ -6,7 +6,7 @@
 
 ### 📫 Contacts:  
  * Telegram: [@bazarnov_sergey](https://t.me/bazarnov_sergey)
- * Email:[101sergey101@gmail.com](mailto:101sergey101@gmail.com)
+ * Email: [101sergey101@gmail.com](mailto:101sergey101@gmail.com)
 
 ### 🔭 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=java,idea,maven,spring,hibernate,postgres,bootstrap,html,linux,git)](https://skillicons.dev)
