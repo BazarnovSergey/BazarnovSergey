@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 
-* I am 34 year old programmer from Rissia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* I am 34 year old programmer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * I’m working as a Software Engineer and contributing to backend for building web applications.
 
 ### 📫 Contacts:  
