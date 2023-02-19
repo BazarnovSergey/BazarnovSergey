@@ -4,11 +4,18 @@
 
 * I am 33 year old programmer from Penza 💻
 
+### 📫 Contacts:  
+ * Telegram: https://t.me/bazarnov_sergey
+ * Email: 101sergey101@gmail.com
+
+### 🔭 Technologies:
+[![My Skills](https://skillicons.dev/icons?i=java,idea,maven,spring,hibernate,postgres,bootstrap,html,linux,git)](https://skillicons.dev)
+
 -----------
+### :bar_chart: My GitHub Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BazarnovSergey&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazarnovSergey&layout=compact)](https://github.com/BazarnovSergey/github-readme-stats)
-
 
 <!--
 **BazarnovSergey/BazarnovSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
