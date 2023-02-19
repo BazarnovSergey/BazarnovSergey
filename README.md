@@ -1,8 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <h1>
+  Hi! My name is Sergey. Welcome!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-### Hi! 👋 My name is Sergey. Welcome! ✌️
+
 
 ### :man_technologist: About Me :
 
